@@ -1,0 +1,4 @@
+------------ Warning [2016-12-23 23:36:40] -------------------
+2016-12-23 23:36:40    Warning: (<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x0000000003325EC8>), Check ScreenShot [Warning__2016-12-23_23_36_40____.png]
+------------ Warning [2016-12-23 23:36:40] --------------------------------------------
+2016-12-23 23:36:40    Step: (<type 'exceptions.AttributeError'>, AttributeError("'NoneType' object has no attribute 'save_screenshot'",), <traceback object at 0x0000000003325FC8>)

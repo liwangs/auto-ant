@@ -1,0 +1,12 @@
+
+**************  Test Case [TestCase001_NormalInputTest] [Chrome]  ***************
+2016-12-23 23:36:36    Step: Element [Title]: Select [Mr.].
+2016-12-23 23:36:36    Step: Element [Name]: Set [Henry.Wang].
+2016-12-23 23:36:36    Step: Element [Male]: Click()
+2016-12-23 23:36:37    Step: Element [Music]: Click()
+2016-12-23 23:36:37    Step: Element [Travel]: Click()
+2016-12-23 23:36:37    Step: Element [SubmitButton]: Click()
+2016-12-23 23:36:37    Step: Element [Result]: VerifyInnerHTMLContains [Henry.Wang].
+2016-12-23 23:36:37    Pass: Real inner_hmtl=[Mr.Henry.Wang<br>Gender: male<br>Hobbies: Music Travel ]
+2016-12-23 23:36:37    Step: Element [Result]: VerifyAttribute [innerHTML] <contain> [Music].
+2016-12-23 23:36:37    Pass: real value=[Mr.Henry.Wang<br>Gender: male<br>Hobbies: Music Travel ]
